@@ -1,0 +1,60 @@
+.head{
+    height: 70px;
+    font-family:'Georgia', Times, 'Times New Roman', serif;
+    background:#ffffff;
+    border-bottom: 3px inset #dddddd;
+}
+
+#name{
+    height: 70px;
+    width: 200px;
+    color:white;
+    font-size: larger;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    margin-left: -10px;
+    background:#4aaaa5; 
+}
+.items{
+  padding-top: 20px;
+
+}
+.main{
+  background-image: url("blue-snow.png");
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 700px;
+    padding-top: 50px;
+}
+.content{
+  background: white;
+  min-height: 400px;
+  
+}
+#title{
+  color: #4aaaa5;
+  border-bottom: 3px inset #dddddd;
+  
+  margin-top: 20px;
+
+}
+#img{
+  height: 200px;
+  width: 150px;
+  padding: 20px 0px 20px 0px;
+
+}
+#text{
+  padding: 20px 10px 20px 0px;
+  font-size: medium
+
+}
+.footer{
+  height: 70px;
+  position: sticky;
+  background-color:#666666;
+  border-top:8px solid #4aaaa5;
+  bottom: 0px;
+  text-align: center;
+  color:white;  
+}
+
